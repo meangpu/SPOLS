@@ -3,18 +3,6 @@
     {
       "name": "Home",
       "path": "/"
-    },
-    {
-      "name": "Job",
-      "path": "/job"
-    },
-    {
-      "name": "Contact",
-      "path": "/contact"
-    },
-    {
-      "name": "About",
-      "path": "/about"
     }
   ]
 }
