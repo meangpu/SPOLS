@@ -1,0 +1,24 @@
+{
+  "gameData": [
+    {
+      "name": "SPOLS1",
+      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
+      "img": "/Debug/debug.png",
+      "gif": "/Debug/debug.gif",
+      "gameLink": "/",
+      "githubLink": "/",
+      "demoLink": "/",
+      "youtubeLink": "/"
+    },
+    {
+      "name": "SPOLS2",
+      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
+      "img": "/Debug/debug.png",
+      "gif": "/Debug/debug.gif",
+      "gameLink": "/",
+      "githubLink": "/",
+      "demoLink": "/",
+      "youtubeLink": "/"
+    }
+  ]
+}
