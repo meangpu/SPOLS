@@ -32,7 +32,7 @@ const GameCard = (props) => {
         )}
       </div>
 
-      <div className='game_des'>
+      <div className='game_des thai-font'>
         <h2>{props.name}</h2>
         <p className='game_p_des'>{props.des}</p>
         <br />

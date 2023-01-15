@@ -10,6 +10,7 @@ video {
 }
 .game_p_des {
   font-size: 0.85rem;
+  font-weight: 400;
 }
 .game_image_wrapper {
   display: inline-block;
