@@ -31,6 +31,7 @@ const Home = () => {
         <h1>SPOLS</h1>
         <h4>Math games for kid</h4>
       </div>
+      <br />
       <div className='container all_game_card__container'>{AllGame}</div>
       <Footer />
     </section>

@@ -1,3 +1,8 @@
+video {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 .all_game_gif_icon {
   font-size: 2rem;
   top: 10px;
@@ -80,25 +85,6 @@
   border-radius: 1rem;
   border-color: transparent;
 }
-
-/* .meangpu-youtube-btn {
-  display: inline-block;
-
-  color: white;
-  background: rgb(176, 50, 50);
-  padding: 0.35rem 0.6rem;
-  border-radius: 0.8rem;
-  cursor: pointer;
-  transition: var(--transition);
-}
-
-.meangpu-youtube-btn:hover {
-  background: var(--color-white);
-  color: var(--color-bg);
-  border-radius: 1rem;
-  border-color: transparent;
-} */
-
 .meangpu-btn-primary {
   background: var(--color-primary);
   color: var(--color-bg);

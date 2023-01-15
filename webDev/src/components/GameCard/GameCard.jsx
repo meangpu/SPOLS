@@ -7,7 +7,7 @@ const GameCard = (props) => {
   return (
     <article className='all_game_card_article'>
       <div className='game_image_wrapper'>
-        {props.img && (
+        {/* {props.img && (
           <div
             className={`game_card__item-image ${props.gif ? " static" : ""}`}
           >
@@ -16,10 +16,18 @@ const GameCard = (props) => {
             )}
             <img src={props.img} alt={props.name} />
           </div>
-        )}
+        )} */}
+
         {props.gif && (
-          <div className='game_card__item-image active'>
-            <img src={props.gif} alt='loading..' />
+          <div className='game_card__item-image active '>
+            <video loop autoPlay className='video'>
+              <source
+                src={props.gif}
+                type='video/mp4'
+                preload='none'
+                alt='loading'
+              />
+            </video>
           </div>
         )}
       </div>

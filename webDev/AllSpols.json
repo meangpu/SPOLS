@@ -2,58 +2,58 @@
   "gameData": [
     {
       "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
-      "playLink": "/"
-    },
-    {
-      "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
-      "playLink": "/"
-    },
-    {
-      "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
-      "playLink": "/"
-    },
-    {
-      "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
-      "playLink": "/"
-    },
-    {
-      "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
-      "playLink": "/"
-    },
-    {
-      "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
-      "playLink": "/"
-    },
-    {
-      "name": "SPOLS1",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-1.mp4",
       "playLink": "/"
     },
     {
       "name": "SPOLS2",
-      "des": "Debug this is really debug this is loremSunt sunt elit excepteur officia laborum esse cillum aliqua in enim culpa pariatur anim. Ex consequat minim minim amet enim amet Lorem minim nulla. Magna aute laborum exercitation cupidatat culpa. ",
-      "img": "/Debug/debug.png",
-      "gif": "/Debug/debug.gif",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-2.mp4",
+      "playLink": "/"
+    },
+    {
+      "name": "SPOLS3",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-3.mp4",
+      "playLink": "/"
+    },
+    {
+      "name": "SPOLS4",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-4.mp4",
+      "playLink": "/"
+    },
+    {
+      "name": "SPOLS5",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-5.mp4",
+      "playLink": "/"
+    },
+    {
+      "name": "SPOLS6",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-6.mp4",
+      "playLink": "/"
+    },
+    {
+      "name": "SPOLS7",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-7.mp4",
+      "playLink": "/"
+    },
+    {
+      "name": "SPOLS8",
+      "des": "wow",
+      "img": "img/debug.png",
+      "gif": "/video/spol-8.mp4",
       "playLink": "/"
     }
   ]
