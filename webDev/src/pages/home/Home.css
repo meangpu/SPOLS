@@ -1,3 +1,12 @@
+.all_game_card__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(24%, 1fr));
+  grid-auto-rows: minmax(min-content, max-content);
+  align-items: center;
+  justify-items: center;
+  gap: 1.2rem;
+}
+
 .home__header {
   height: 50vh;
   padding-top: 1rem;
@@ -20,7 +29,11 @@
 }
 
 /* ============== Med Devices(ipad) ============== */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1124px) {
+  .all_game_card__container {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
   header {
     height: 68vh;
   }
@@ -31,7 +44,11 @@
 }
 
 /* ============== Small Devices(phone) ============== */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 664px) {
+  .all_game_card__container {
+    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+    gap: 1rem;
+  }
   header {
     height: 68vh;
   }

@@ -1,6 +1,5 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import React from "react";
-// import NavbarBottom from "./components/navbarBottom/NavBottom";
 import NavbarTop from "./components/navbar/Navbar";
 import Home from "./pages/home/Home";
 import Notfound from "./pages/notFound/Notfound";
@@ -8,7 +7,6 @@ import Notfound from "./pages/notFound/Notfound";
 const App = () => {
   return (
     <BrowserRouter basename='/web-starter-meangpu/'>
-      {/* <NavbarBottom /> */}
       <NavbarTop />
       <Routes>
         <Route index element={<Home />} />

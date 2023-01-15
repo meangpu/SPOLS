@@ -34,13 +34,13 @@ const GameCard = (props) => {
               Github
             </a>
           )}
-          {props.demoLink && (
+          {props.playLink && (
             <a
-              href={props.demoLink}
+              href={props.playLink}
               className='meangpu-btn btn-primary'
               target='_blank'
             >
-              Demo
+              Play
             </a>
           )}
           {props.youtubeLink && (

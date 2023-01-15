@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300;500;600&family=Montserrat:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
 *,
 *::before,
 *::after {
@@ -18,7 +18,7 @@
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-secondary: #ffb116;
   --color-white: #fff;
-  --color-light: rgba(255, 255, 255, 0.6);
+  --color--light: rgba(255, 255, 255, 0.6);
 
   --container-width-lg: 75%;
   --container-width-md: 86%;
@@ -41,16 +41,28 @@ body {
 }
 
 a {
-  color: var(--color--light);
+  color: var(--color-primary);
+  transition: var(--transition);
 }
 
-img {
-  display: block;
-  object-fit: cover;
-  height: auto;
-  width: 100%;
-  aspect-ratio: attr(width) / attr(height);
+a:hover {
+  color: var(--color-white);
 }
+
+h1 {
+  font-weight: bolder;
+}
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
 section {
   margin-top: 8rem;
 }
@@ -65,6 +77,52 @@ section > h3 {
 section > h2 {
   color: var(--color-primary);
   margin-bottom: 3rem;
+}
+.btn {
+  width: max-content;
+  display: inline-block;
+  color: var(--color-primary);
+  padding: 0.75rem 1.2rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  border: 1px solid var(--color-primary);
+  transition: var(--transition);
+}
+
+.btn:hover {
+  background: var(--color-white);
+  color: var(--color-bg);
+  border-color: transparent;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: var(--color-bg);
+}
+
+.btn-primary-cta {
+  padding: 0.75rem 1.7rem;
+  border-radius: 1.8rem;
+  font-weight: 700;
+  color: #fff;
+  background: var(--color-primary);
+}
+
+.btn-border-cta {
+  padding: 0.75rem 1.7rem;
+  border-radius: 1.8rem;
+  border: 1px solid var(--color-primary);
+  font-weight: 700;
+}
+
+.btn-border-cta:hover {
+  color: var(--color-primary);
+  background-color: aliceblue;
+}
+
+img {
+  display: block;
+  width: 100%;
 }
 
 /* ============== med devices(ipad) ============== */
