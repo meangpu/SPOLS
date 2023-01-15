@@ -18,18 +18,20 @@ const GameCard = (props) => {
           </div>
         )} */}
 
-        {props.gif && (
-          <div className='game_card__item-image active '>
-            <video loop autoPlay muted playsinline className='video'>
-              <source
-                src={props.gif}
-                type='video/mp4'
-                preload='none'
-                alt='loading'
-              />
-            </video>
-          </div>
-        )}
+        <a href={props.playLink} target='_blank'>
+          {props.gif && (
+            <div className='game_card__item-image active '>
+              <video loop autoPlay muted playsinline className='video'>
+                <source
+                  src={props.gif}
+                  type='video/mp4'
+                  preload='none'
+                  alt='loading'
+                />
+              </video>
+            </div>
+          )}
+        </a>
       </div>
 
       <div className='game_des thai-font'>
@@ -42,7 +44,7 @@ const GameCard = (props) => {
               Github
             </a>
           )}
-          {props.playLink && (
+          {/* {props.playLink && (
             <a
               href={props.playLink}
               className='meangpu-btn btn-primary'
@@ -50,7 +52,7 @@ const GameCard = (props) => {
             >
               Play
             </a>
-          )}
+          )} */}
           {props.youtubeLink && (
             <a
               href={props.youtubeLink}

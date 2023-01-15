@@ -12,13 +12,13 @@ const Footer = () => {
       </a>
 
       <div className='footer__socials'>
-        <a href='facebook'>
+        <a href='https://www.facebook.com/ninesupap'>
           <RiFacebookCircleFill />
         </a>
-        <a href='ig'>
+        <a href='https://www.instagram.com/ninesupap/'>
           <AiFillInstagram />
         </a>
-        <a href='twitter'>
+        <a href='https://twitter.com/ninesupap'>
           <BsTwitter />
         </a>
       </div>
