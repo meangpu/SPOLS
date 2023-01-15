@@ -20,7 +20,7 @@ const GameCard = (props) => {
 
         {props.gif && (
           <div className='game_card__item-image active '>
-            <video loop autoPlay muted className='video'>
+            <video loop autoPlay muted playsinline className='video'>
               <source
                 src={props.gif}
                 type='video/mp4'
