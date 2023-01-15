@@ -5,56 +5,56 @@
       "des": "ให้ผู้เล่นสร้างสี่เหลี่ยมผืนผ้าที่มีพื้นที่เท่ากับตัวเลขด้านซ้าย โดยสังเกตว่าความกว้างและความยาวที่ได้ของสี่เหลี่ยมผืนผ้าคือเท่าใด",
       "img": "img/debug.png",
       "gif": "./video/spol-1.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level1/"
     },
     {
       "name": "SPOLS2",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-2.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level2/"
     },
     {
       "name": "SPOLS3",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-3.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level3/"
     },
     {
       "name": "SPOLS4",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-4.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level4/"
     },
     {
       "name": "SPOLS5",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-5.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level5/"
     },
     {
       "name": "SPOLS6",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-6.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level6/"
     },
     {
       "name": "SPOLS7",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-7.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level7/"
     },
     {
       "name": "SPOLS8",
       "des": "wow",
       "img": "img/debug.png",
       "gif": "./video/spol-8.mp4",
-      "playLink": "/"
+      "playLink": "https://meangpu.github.io/SPOLS/level8/"
     }
   ]
 }
