@@ -6,7 +6,7 @@ import Notfound from "./pages/notFound/Notfound";
 
 const App = () => {
   return (
-    <BrowserRouter basename='/web-starter-meangpu/'>
+    <BrowserRouter basename='/SPOLS/'>
       <NavbarTop />
       <Routes>
         <Route index element={<Home />} />
